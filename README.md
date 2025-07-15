@@ -10,7 +10,7 @@
 
 
 ## Flowchart
-[Flowchart](docs/flowchart.jpeg)
+[Flowchart](docs/flowchart.jpg)
 
 ## Challenges Faced During the Lab
 The main challenges I faced in this assignment stemmed from understanding how 
